@@ -27,7 +27,7 @@ const buttonSecondary = {
   fontWeight: 700,
 };
 
-export default function Page()   {
+export default function Page() {
   return (
     <main>
       {/* HERO */}
